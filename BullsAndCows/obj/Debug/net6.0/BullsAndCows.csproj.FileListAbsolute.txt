@@ -1,0 +1,15 @@
+D:\c#\BullsAndCows\bin\Debug\net6.0\BullsAndCows.exe
+D:\c#\BullsAndCows\bin\Debug\net6.0\BullsAndCows.deps.json
+D:\c#\BullsAndCows\bin\Debug\net6.0\BullsAndCows.runtimeconfig.json
+D:\c#\BullsAndCows\bin\Debug\net6.0\BullsAndCows.dll
+D:\c#\BullsAndCows\bin\Debug\net6.0\BullsAndCows.pdb
+D:\c#\BullsAndCows\obj\Debug\net6.0\BullsAndCows.csproj.AssemblyReference.cache
+D:\c#\BullsAndCows\obj\Debug\net6.0\BullsAndCows.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\BullsAndCows\obj\Debug\net6.0\BullsAndCows.AssemblyInfoInputs.cache
+D:\c#\BullsAndCows\obj\Debug\net6.0\BullsAndCows.AssemblyInfo.cs
+D:\c#\BullsAndCows\obj\Debug\net6.0\BullsAndCows.csproj.CoreCompileInputs.cache
+D:\c#\BullsAndCows\obj\Debug\net6.0\BullsAndCows.dll
+D:\c#\BullsAndCows\obj\Debug\net6.0\refint\BullsAndCows.dll
+D:\c#\BullsAndCows\obj\Debug\net6.0\BullsAndCows.pdb
+D:\c#\BullsAndCows\obj\Debug\net6.0\BullsAndCows.genruntimeconfig.cache
+D:\c#\BullsAndCows\obj\Debug\net6.0\ref\BullsAndCows.dll
